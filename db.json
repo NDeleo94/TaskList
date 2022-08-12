@@ -17,6 +17,12 @@
       "text": "Hacer las compras 3 ",
       "day": "2020",
       "reminder": true
+    },
+    {
+      "text": "Estudiar",
+      "day": "Hoy",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
