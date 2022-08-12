@@ -21,7 +21,7 @@
     {
       "text": "Estudiar",
       "day": "Hoy",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
